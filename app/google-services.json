@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872854032105",
+    "project_id": "fir-ml-b9f3d",
+    "storage_bucket": "fir-ml-b9f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872854032105:android:2a07e032834cedcbc56a78",
+        "android_client_info": {
+          "package_name": "com.brijesh.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872854032105-nteh4uhf7rtdqef3hmhq387j45d082na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKH_r9mO_QaTP2Wp83wjK2yREjv1vQEqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872854032105-nteh4uhf7rtdqef3hmhq387j45d082na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
